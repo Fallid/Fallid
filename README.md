@@ -1,6 +1,7 @@
 <div align="center">
-<!--   <img src="https://raw.githubusercontent.com/rizkyhaksono/rizkyhaksono/main/Github%20Banner.png"/> -->
+  <a href"https://fallidblog.000webhostapp.com/">
   <img src="https://github.com/Fallid/Fallid/blob/main/BannerGithub.png"/>
+  </a>
 </div>
 
 
