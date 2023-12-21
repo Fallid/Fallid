@@ -12,8 +12,7 @@
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fallid&theme=vue-dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact"/>
     <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Fallid&theme=vue-dark&hide_border=true"/>
   </a>
+    ---
+    [![](https://visitcount.itsvg.in/api?id=Fallid&icon=0&color=0)](https://visitcount.itsvg.in)
   </p>
 </div>
-
----
-[![](https://visitcount.itsvg.in/api?id=Fallid&icon=0&color=0)](https://visitcount.itsvg.in)
