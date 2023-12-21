@@ -8,9 +8,9 @@
 <div align="center">
   <p align="center">
   <a href="https://github.com/Fallid">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ClaszyCat&theme=vue-dark&hide_border=true&include_all_commits=false&count_private=false"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ClaszyCat&theme=vue-dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact"/>
-    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=ClaszyCat&theme=vue-dark&hide_border=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Fallid&theme=vue-dark&hide_border=true&include_all_commits=false&count_private=false"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fallid&theme=vue-dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact"/>
+    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Fallid&theme=vue-dark&hide_border=true"/>
   </a>
   </p>
 </div>
