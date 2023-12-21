@@ -4,12 +4,13 @@
   </a>
 </div>
 
-
+# 📊 GitHub Stats:
 <div align="center">
   <p align="center">
   <a href="https://github.com/Fallid">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Fallid&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Fallid&layout=compact&layout=compact&theme=algolia"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ClaszyCat&theme=vue-dark&hide_border=true&include_all_commits=false&count_private=false"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ClaszyCat&theme=vue-dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact"/>
+    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=ClaszyCat&theme=vue-dark&hide_border=true"/>
   </a>
   </p>
 </div>
